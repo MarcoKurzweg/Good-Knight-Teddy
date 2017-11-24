@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: dcdb89f6b8638414ab1b4241054110e0
+timeCreated: 1478637334
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CATRigHub001
+    100002: CATRigHub002
+    100004: CATRigHub003
+    100006: CATRigLArm1
+    100008: CATRigLArm2
+    100010: CATRigLArmCollarbone
+    100012: CATRigLArmDigit11
+    100014: CATRigLArmDigit31
+    100016: CATRigLArmPalm
+    100018: CATRigLLeg1
+    100020: CATRigLLeg2
+    100022: CATRigLLegAnkle
+    100024: CATRigLLegDigit11
+    100026: CATRigLLegPlatform
+    100028: CATRigRArm1
+    100030: CATRigRArm2
+    100032: CATRigRArmCollarbone
+    100034: CATRigRArmDigit11
+    100036: CATRigRArmDigit31
+    100038: CATRigRArmPalm
+    100040: CATRigRLeg1
+    100042: CATRigRLeg2
+    100044: CATRigRLegAnkle
+    100046: CATRigRLegDigit11
+    100048: CATRigRLegPlatform
+    100050: CATRigSpine
+    100052: CATRigSpine1
+    100054: CATRigSpine2
+    100056: CATRigSpine3
+    100058: Character001
+    100060: //RootNode
+    100062: Teddy_Bear
+    400000: CATRigHub001
+    400002: CATRigHub002
+    400004: CATRigHub003
+    400006: CATRigLArm1
+    400008: CATRigLArm2
+    400010: CATRigLArmCollarbone
+    400012: CATRigLArmDigit11
+    400014: CATRigLArmDigit31
+    400016: CATRigLArmPalm
+    400018: CATRigLLeg1
+    400020: CATRigLLeg2
+    400022: CATRigLLegAnkle
+    400024: CATRigLLegDigit11
+    400026: CATRigLLegPlatform
+    400028: CATRigRArm1
+    400030: CATRigRArm2
+    400032: CATRigRArmCollarbone
+    400034: CATRigRArmDigit11
+    400036: CATRigRArmDigit31
+    400038: CATRigRArmPalm
+    400040: CATRigRLeg1
+    400042: CATRigRLeg2
+    400044: CATRigRLegAnkle
+    400046: CATRigRLegDigit11
+    400048: CATRigRLegPlatform
+    400050: CATRigSpine
+    400052: CATRigSpine1
+    400054: CATRigSpine2
+    400056: CATRigSpine3
+    400058: Character001
+    400060: //RootNode
+    400062: Teddy_Bear
+    4300000: Teddy_Bear
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Teddy_Bear
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Character001
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
