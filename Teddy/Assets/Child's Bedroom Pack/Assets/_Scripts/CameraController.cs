@@ -77,9 +77,9 @@ public class CameraController : MonoBehaviour
     
     void GetInput()
     {
-        vOrbitInput = Input.GetAxisRaw(input.ORBIT_VERTICAL);
-        hOrbitInput = Input.GetAxisRaw(input.ORBIT_HORIZONTAL);
-        hOrbitSnapInput = Input.GetAxisRaw(input.ORBIT_HORIZONTAL_SNAP);
+        //vOrbitInput = Input.GetAxisRaw(input.ORBIT_VERTICAL);
+       // hOrbitInput = Input.GetAxisRaw(input.ORBIT_HORIZONTAL);
+       // hOrbitSnapInput = Input.GetAxisRaw(input.ORBIT_HORIZONTAL_SNAP);
         zoomInput = Input.GetAxisRaw(input.ZOOM);
     }
 
